@@ -1,0 +1,55 @@
+# Django-related
+*.pyc
+_pycache_/
+*db.sqlite3
+
+
+
+# Virtual Environment
+venv/
+myenv/
+env/
+
+# Editor and IDE Files
+.vscode/
+.idea/
+*.pydevproject
+
+# Dependency Management
+*.egg-info/
+dist/
+build/
+
+# System and OS Files
+.DS_Store
+Thumbs.db
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+*.bak
+*.swp
+
+# Sensitive Data
+*.env
+*.secret
+
+# Build Output
+*.so
+*.o
+*.out
+
+# Database Files
+*.db
+
+
+# Django stuff:
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+filters/
+
+data.json

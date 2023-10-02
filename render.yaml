@@ -1,0 +1,6 @@
+services:
+  - name: chrome_extention
+    type: web
+    env: python3
+    buildCommand: ./build.sh
+    startCommand: gunicorn chrome_extention.wsgi:application
