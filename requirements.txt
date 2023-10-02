@@ -11,7 +11,7 @@ click-plugins==1.1.1
 click-repl==0.3.0
 convert==0.1.2
 decorator==4.4.2
-Django==4.2.5
+Django==3.2.21
 django-chunked-upload==2.0.0
 djangorestframework==3.14.0
 drf-yasg==1.21.7
