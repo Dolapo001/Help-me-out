@@ -21,7 +21,7 @@ imageio-ffmpeg==0.4.9
 inflection==0.5.1
 kombu==5.3.0b3
 moviepy==1.0.3
-numpy==1.26.0
+numpy==1.21.6
 packaging==23.2
 Pillow==10.0.1
 proglog==0.1.10
