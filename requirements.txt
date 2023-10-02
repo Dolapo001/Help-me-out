@@ -11,7 +11,7 @@ click-plugins==1.1.1
 click-repl==0.3.0
 convert==0.1.2
 decorator==4.4.2
-Django==3.2.21
+Django==4.2.5
 django-chunked-upload==2.0.0
 djangorestframework==3.14.0
 drf-yasg==1.21.7
@@ -40,5 +40,4 @@ urllib3==2.0.5
 vine==5.0.0
 wcwidth==0.2.8
 whisper==1.1.10
-whitenoise=6.5.0
-
+whitenoise==6.5.0
