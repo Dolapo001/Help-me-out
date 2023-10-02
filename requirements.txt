@@ -19,7 +19,7 @@ idna==3.4
 imageio==2.31.2
 imageio-ffmpeg==0.4.9
 inflection==0.5.1
-kombu==5.3.2
+kombu==5.3.0b3
 moviepy==1.0.3
 numpy==1.26.0
 packaging==23.2
