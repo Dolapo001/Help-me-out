@@ -16,7 +16,8 @@ This is a Django Rest Framework (DRF) project designed to support a Chrome Exten
 
 - Django: Backend web framework
 - Django Rest Framework (DRF): For building RESTful APIs
-- Transcription Service (e.g., OpenAI Whisper, Google Cloud Speech-to-Text, etc.): For video transcriptions
+- Django Chunked Upload: For Uploading videos received in chunks
+- Transcription Service (Celery and Rabbitmq): For video transcriptions
 - Amazon S3: For media file storage
 - Swagger UI: For API documentation
 - Postman: For testing API endpoints
@@ -53,7 +54,7 @@ This is a Django Rest Framework (DRF) project designed to support a Chrome Exten
 
 The complete API documentation, including endpoint details, request/response formats, and usage instructions, is available in the Swagger UI documentation.
 
-[Link to Swagger UI Documentation](http://localhost:8000/swagger/)
+[Link to Swagger UI Documentation](https://help-me-out-api.onrender.com/swagger/schema/)
 
 ## Transcription Service Integration
 
