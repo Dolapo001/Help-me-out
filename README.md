@@ -56,13 +56,3 @@ The complete API documentation, including endpoint details, request/response for
 
 [Link to Swagger UI Documentation](https://help-me-out-api.onrender.com/swagger/schema/)
 
-## Transcription Service Integration
-
-To integrate a transcription service of your choice, follow these steps:
-
-1. Choose a Transcription Service: Select a transcription service (e.g., OpenAI Whisper, Google Cloud Speech-to-Text, etc.) and obtain API credentials.
-
-2. Transcription Integration: Create a function to send video files to the transcription service and receive transcribed text. Process and save the transcriptions in your system.
-
-3. API Endpoint for Transcription: Create a new API endpoint in DRF to handle the transcription process. This endpoint initiates the transcription, saves it, and returns the transcription data.
-
