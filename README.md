@@ -42,7 +42,7 @@ This is a Django Rest Framework (DRF) project designed to support a Chrome Exten
 
 5. Access the Swagger UI documentation to explore and test the available API endpoints:
 
-   http://localhost:8000/swagger/
+   http://localhost:8000/swagger/schema/
 
 
 ## Usage
